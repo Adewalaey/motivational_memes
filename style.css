@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.poster {
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+}
+.moti-img {
+    border: 10px solid white;
+    width: 100%;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
